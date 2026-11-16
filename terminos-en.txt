@@ -1,0 +1,57 @@
+﻿TERMS AND CONDITIONS OF USE - GCVolley CAMARA
+Version of November 15, 2026
+
+By installing, activating or using GCVolley CAMARA (the "Program") you accept these terms. If you do not accept them, do not install or use the Program.
+
+1. OWNER
+The Program, its code, design, name, logo, texts, guides and documentation are the property of GCVolley (the "Owner"). All rights reserved. Contact: gamecode.volley@gmail.com.
+
+2. LICENSE TO USE
+2.1. You are granted a personal, limited, non-exclusive and non-transferable license to use the Program on a single laptop: the one matching the license's activation code.
+2.2. The license lasts 6 months from its issue date and is renewed by paying for the next period. Without a license, the Program runs in trial mode for 15 days from the first installation and is then locked.
+2.3. The license may not be sold, lent, rented, shared, assigned or used on another laptop. Buying a license does not transfer ownership of the Program or of any of its parts.
+
+3. PROHIBITED USES
+You may not, directly or through third parties:
+a) Copy, reproduce, distribute or publish the Program, in whole or in part, by any means.
+b) Decompile, disassemble, reverse engineer, modify or create derivative works of the Program or any of its parts, including the components installed on the phone.
+c) Use artificial intelligence, automated tools or any other means to scan, read, record or analyze the Program, its operation, interface, messages, files, communications or workflow in order to copy, imitate or reproduce it, whether its idea, design or logic (intellectual copying) or its code, procedures and sequence of operation (systematic copying).
+d) Bypass, disable or alter the license, the trial period, the signature of updates or any other protection measure, or create, sell or distribute licenses, keys or modified versions.
+e) Use the Program, or what you learn from it, to develop, offer or sell a product that competes with it.
+
+4. PURCHASE, PAYMENT AND REFUNDS
+4.1. The price and payment method are given when you request a purchase. The license is delivered by email after payment.
+4.2. The 15-day trial lets you check, before buying, that the Program works with your laptop, your phone and your network. Therefore, once the license has been issued there are no refunds, unless the consumer protection law that applies to you states otherwise.
+4.3. If your laptop changes (repair, Windows reinstallation or replacement), you may request by email a license for the new laptop for the rest of the period; the Owner will assess each case.
+
+5. PRIVACY AND DATA
+5.1. The Program does not send personal data or camera images to any server.
+5.2. When it opens, the Program checks GitHub (a third-party service) for a new version. This check includes no personal data.
+5.3. The Program keeps technical logs on the laptop to diagnose errors. They only leave the laptop if you choose to send a support report, which includes technical data about the laptop, phone, network and license, and is used only to support you.
+5.4. The data in the purchase request (name, email, country and anything else you fill in) is used only to handle the sale, the license and support. It is not sold or shared with third parties.
+
+6. CHANGES TO THE LAPTOP AND NETWORK
+6.1. The Program installs a virtual camera and a Windows service, which are removed when it is uninstalled.
+6.2. If you turn on the quality improvement for the scouting program, the Program changes its capture options while it is open and returns them to their factory values when it closes.
+6.3. If you turn on match mode, the Program changes the Windows Wi-Fi settings while streaming (preferred network, automatic connection and internet check) and restores them when it finishes. You turn it on at your own risk; if anything is left different, closing the Program restores it.
+6.4. While streaming, the Program runs its own component on the phone, which stops when the phone is disconnected.
+
+7. UPDATES AND SUPPORT
+7.1. The Program tells you when a new version is available and installs it when you confirm. Updates may add, change or remove features.
+7.2. Support is provided by email, with no guaranteed response time.
+7.3. The Owner may stop selling, updating or supporting the Program. Active licenses will keep working until they expire.
+
+8. NO WARRANTY AND LIMITATION OF LIABILITY
+8.1. The Program is provided "as is", without warranties of any kind. It is not guaranteed to work with every phone, laptop, network or program, or to work without interruptions or errors.
+8.2. The Owner is not liable for matches or images not recorded or lost, video cuts, network or Wi-Fi drops, failures of the phone, Windows or other programs (including the scouting program and OBS), or for indirect damages, lost profits or data loss.
+8.3. In no case will the Owner's total liability exceed what you paid for the current license.
+8.4. It is your responsibility to test the Program before each match and to have a backup.
+
+9. LICENSE TERMINATION
+If you breach these terms, the Owner may cancel your license without notice or refund, refuse future licenses and take the appropriate legal action. Sections 3, 5.4 and 8 remain in force after the license ends.
+
+10. CHANGES TO THESE TERMS
+The Owner may update these terms. The new version is shown when installing the Program and when buying or renewing a license; continuing to use it after an update means you accept it.
+
+11. CONTACT
+Questions, support and complaints: gamecode.volley@gmail.com.

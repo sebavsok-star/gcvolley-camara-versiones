@@ -1,0 +1,57 @@
+﻿TÉRMINOS Y CONDICIONES DE USO - GCVolley CAMARA
+Versión del 15 de noviembre de 2026
+
+Al instalar, activar o usar GCVolley CAMARA (el "Programa") aceptas estos términos. Si no los aceptas, no instales ni uses el Programa.
+
+1. TITULAR
+El Programa, su código, diseño, nombre, logo, textos, guías y documentación son propiedad de GCVolley (el "Titular"). Todos los derechos reservados. Contacto: gamecode.volley@gmail.com.
+
+2. LICENCIA DE USO
+2.1. Se otorga una licencia personal, limitada, no exclusiva e intransferible para usar el Programa en una sola laptop: la que corresponde al código de activación de la licencia.
+2.2. La licencia dura 6 meses desde su emisión y se renueva pagando el período siguiente. Sin licencia, el Programa funciona en modo de prueba durante 15 días desde la primera instalación y luego se bloquea.
+2.3. La licencia no se puede vender, prestar, alquilar, compartir, ceder ni usar en otra laptop. Comprar una licencia no transfiere la propiedad del Programa ni de ninguna de sus partes.
+
+3. PROHIBICIONES
+Queda prohibido, directamente o por medio de terceros:
+a) Copiar, reproducir, distribuir o publicar el Programa, en forma total o parcial, por cualquier medio.
+b) Descompilar, desensamblar, aplicar ingeniería inversa, modificar o crear obras derivadas del Programa o de cualquiera de sus partes, incluidos los componentes que se instalan en el celular.
+c) Usar inteligencia artificial, herramientas automáticas o cualquier otro medio para escanear, leer, grabar o analizar el Programa, su funcionamiento, su interfaz, sus mensajes, sus archivos, sus comunicaciones o su flujo de trabajo con el fin de copiarlo, imitarlo o reproducirlo, ya sea su idea, diseño o lógica (copia intelectual) o su código, procedimientos y secuencia de funcionamiento (copia sistemática).
+d) Eludir, desactivar o alterar la licencia, el período de prueba, la firma de las actualizaciones o cualquier otra medida de protección, y crear, vender o distribuir licencias, claves o versiones modificadas.
+e) Usar el Programa, o lo aprendido de él, para desarrollar, ofrecer o vender un producto que compita con él.
+
+4. COMPRA, PAGO Y REEMBOLSOS
+4.1. El precio y la forma de pago se informan al solicitar la compra. La licencia se entrega por correo después del pago.
+4.2. El período de prueba de 15 días permite comprobar, antes de comprar, que el Programa funciona con tu laptop, tu celular y tu red. Por eso, una vez emitida la licencia no hay devoluciones, salvo que la ley que te protege como consumidor disponga otra cosa.
+4.3. Si cambia la laptop (reparación, reinstalación de Windows o reemplazo), puedes pedir por correo una licencia para la laptop nueva por el resto del período; el Titular lo evaluará en cada caso.
+
+5. PRIVACIDAD Y DATOS
+5.1. El Programa no envía datos personales ni las imágenes de la cámara a ningún servidor.
+5.2. Al abrirse, el Programa consulta en GitHub (un servicio de terceros) si hay una versión nueva. Esa consulta no incluye datos personales.
+5.3. El Programa guarda en la laptop registros técnicos para diagnosticar errores. Solo salen de la laptop si tú decides enviar un reporte de soporte, que incluye datos técnicos de la laptop, del celular, de la red y de la licencia, y se usa únicamente para darte soporte.
+5.4. Los datos de la solicitud de compra (nombre, correo, país y los demás que completes) se usan solo para gestionar la venta, la licencia y el soporte. No se venden ni se ceden a terceros.
+
+6. CAMBIOS EN LA LAPTOP Y EN LA RED
+6.1. El Programa instala una cámara virtual y un servicio de Windows, que se quitan al desinstalarlo.
+6.2. Si activas la mejora de calidad para el programa de scouting, el Programa cambia sus opciones de captura mientras está abierto y las vuelve a sus valores de fábrica al cerrarse.
+6.3. Si activas el modo partido, el Programa cambia la configuración de Wi-Fi de Windows mientras transmite (red preferida, conexión automática y comprobación de internet) y la restaura al terminar. Lo activas bajo tu responsabilidad; si algo queda distinto, cerrar el Programa lo restaura.
+6.4. Mientras transmite, el Programa ejecuta en el celular un componente propio, que se detiene al desconectarlo.
+
+7. ACTUALIZACIONES Y SOPORTE
+7.1. El Programa avisa cuando hay una versión nueva y la instala cuando lo confirmas. Las actualizaciones pueden agregar, cambiar o quitar funciones.
+7.2. El soporte se da por correo, sin un plazo de respuesta garantizado.
+7.3. El Titular puede dejar de vender, actualizar o dar soporte al Programa. Las licencias vigentes seguirán funcionando hasta su vencimiento.
+
+8. SIN GARANTÍA Y LÍMITE DE RESPONSABILIDAD
+8.1. El Programa se entrega "tal cual", sin garantías de ningún tipo. No se garantiza que funcione con todos los celulares, laptops, redes o programas, ni que funcione sin interrupciones ni errores.
+8.2. El Titular no responde por partidos o imágenes no grabados o perdidos, cortes de video, caídas de la red o del Wi-Fi, fallas del celular, de Windows o de otros programas (incluidos el programa de scouting y OBS), ni por daños indirectos, lucro cesante o pérdida de datos.
+8.3. En ningún caso la responsabilidad total del Titular superará lo que pagaste por la licencia vigente.
+8.4. Es tu responsabilidad probar el Programa antes de cada partido y tener un respaldo.
+
+9. CANCELACIÓN DE LA LICENCIA
+Si incumples estos términos, el Titular puede anular tu licencia sin aviso y sin devolución, negarte licencias futuras e iniciar las acciones legales que correspondan. Las secciones 3, 5.4 y 8 siguen vigentes aun después de terminada la licencia.
+
+10. CAMBIOS A ESTOS TÉRMINOS
+El Titular puede actualizar estos términos. La versión nueva se muestra al instalar el Programa y al comprar o renovar una licencia; seguir usándolo después de una actualización significa aceptarla.
+
+11. CONTACTO
+Consultas, soporte y reclamos: gamecode.volley@gmail.com.
